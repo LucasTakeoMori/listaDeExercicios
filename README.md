@@ -37,6 +37,9 @@ Descrição: Este script verifica se um número é ímpar e exibe uma mensagem c
 Instruções
 
 Cada exercício está contido em uma função.
+
 Execute o script em um ambiente que suporte JavaScript, como um navegador web.
 Abra o console do navegador para ver os resultados ou mensagens exibidas em alertas.
 Analise o código de cada exercício para entender como as operações são realizadas.
+
+Você pode encontrar as respostas da lista de exercícios na pasta "./exerciceAnswer". Tente resolvê-los antes de consultá-las! 🚀🚀
